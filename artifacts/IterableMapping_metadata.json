@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"interfaces/IterateMapping.sol": "IterableMapping"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"interfaces/IterateMapping.sol": {
+			"keccak256": "0x0e858513518fe8be89bd6edfc932e7e0b97ed64f8e87755703258799b14c2e65",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://98880178e58e40ee71a6ef792c635ac719db69c5e48dcc7fb7f450209431df4a",
+				"dweb:/ipfs/QmPes2A3eH8VGVbHdkmTrJTSFosDL8zuxUR7AezWxE9L1i"
+			]
+		}
+	},
+	"version": 1
+}
